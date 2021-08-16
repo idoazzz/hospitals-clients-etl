@@ -1,0 +1,5 @@
+﻿PatientID,StartDate,EndDate,Active,DisplayName,Diagnoses,TreatmentLine,CyclesXDays,TreatmentID
+7000,2/1/2019 0:00,,Ordered,IV Hydration,,,1X1,123123
+7001,1/21/2019 0:00,,Ordered,Ibrutinib (Imbruvica) 420 mg PO daily for CLL,Breast cancer,,6X28,321321
+7001,1/21/2019 0:00,,Ordered,RiTUXimab 375 mg/m2 monthly,Breast cancer,,4X28,321322
+7001,1/21/2019 0:00,,Ordered,RiTUXimab 375 mg/m2 monthly,Eye cancer,,5X10,321324

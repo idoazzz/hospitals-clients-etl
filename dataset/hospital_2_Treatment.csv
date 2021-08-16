@@ -1,0 +1,2 @@
+﻿TreatmentId,PatientId,ProtocolID,StartDate,EndDate,Status,DisplayName,AssociatedDiagnoses,NumberOfCycles
+X8769,888,111,1/25/2017,NULL,Active,OPD NIVOLUMAB 240 MG,NULL,12

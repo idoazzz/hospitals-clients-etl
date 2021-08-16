@@ -1,0 +1,4 @@
+﻿PatientID,MRN,PatientDOB,IsDeceased,DOD_TS,LastName,FirstName,Gender,Sex,Address,City,State,ZipCode,LastModifiedDate
+7000,7000,4/19/1970 0:00,Active,,Cohen,Yossi,Male-to-Female,Male,Habima road,Tel Aviv,MI,12345,1/12/2018 12:00:00 AM
+7001,7001,4/19/1969 0:00:00,Deceased,1/12/2018 12:00:00 AM,Smith,Danny,Trans Woman,Male,,,MI,12345-6789,1/12/2018 12:00:00 AM
+7002,7002,4/19/1980 0:00,Hospice,,Gantz,Benny,Transgender Male,Female,,,MI,,1/12/2018 12:00:00 AM

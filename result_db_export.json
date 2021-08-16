@@ -1,0 +1,128 @@
+[
+  {
+    "_id": {
+      "$oid": "611ab123348db3017fbaea84"
+    },
+    "patient_id": {
+      "$numberInt": "7000"
+    },
+    "DOD_TS": null,
+    "LastModifiedDate": "1/12/2018 12:00:00 AM",
+    "PatientDOB": "4/19/1970 0:00",
+    "address": "Habima road",
+    "city": "Tel Aviv",
+    "first_name": "Yossi",
+    "gender": "Male-to-Female",
+    "id": {
+      "$numberInt": "7000"
+    },
+    "is_deceased": true,
+    "last_name": "Cohen",
+    "mrn": "7000",
+    "sex": "Male",
+    "state": "MI",
+    "zip": "12345",
+    "treatments": [
+      {
+        "id": {
+          "$numberInt": "123123"
+        },
+        "patient_id": {
+          "$numberInt": "7000"
+        },
+        "start_date": "2/1/2019 0:00",
+        "display_name": "IV Hydration",
+        "status": "Ordered",
+        "TreatmentLine": null,
+        "CyclesXDays": "1X1"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "611ab123348db3017fbaea86"
+    },
+    "patient_id": {
+      "$numberInt": "7001"
+    },
+    "DOD_TS": "1/12/2018 12:00:00 AM",
+    "LastModifiedDate": "1/12/2018 12:00:00 AM",
+    "PatientDOB": "4/19/1969 0:00:00",
+    "first_name": "Danny",
+    "gender": "Trans Woman",
+    "id": {
+      "$numberInt": "7001"
+    },
+    "is_deceased": false,
+    "last_name": "Smith",
+    "mrn": "7001",
+    "sex": "Male",
+    "state": "MI",
+    "zip": "12345-6789",
+    "treatments": [
+      {
+        "id": {
+          "$numberInt": "321321"
+        },
+        "patient_id": {
+          "$numberInt": "7001"
+        },
+        "start_date": "1/21/2019 0:00",
+        "display_name": "Ibrutinib (Imbruvica) 420 mg PO daily for CLL",
+        "diagnoses": "Breast cancer",
+        "status": "Ordered",
+        "TreatmentLine": null,
+        "CyclesXDays": "6X28"
+      },
+      {
+        "id": {
+          "$numberInt": "321322"
+        },
+        "patient_id": {
+          "$numberInt": "7001"
+        },
+        "start_date": "1/21/2019 0:00",
+        "display_name": "RiTUXimab 375 mg/m2 monthly",
+        "diagnoses": "Breast cancer",
+        "status": "Ordered",
+        "TreatmentLine": null,
+        "CyclesXDays": "4X28"
+      },
+      {
+        "id": {
+          "$numberInt": "321324"
+        },
+        "patient_id": {
+          "$numberInt": "7001"
+        },
+        "start_date": "1/21/2019 0:00",
+        "display_name": "RiTUXimab 375 mg/m2 monthly",
+        "diagnoses": "Eye cancer",
+        "status": "Ordered",
+        "TreatmentLine": null,
+        "CyclesXDays": "5X10"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "611ab123348db3017fbaea88"
+    },
+    "patient_id": {
+      "$numberInt": "7002"
+    },
+    "DOD_TS": null,
+    "LastModifiedDate": "1/12/2018 12:00:00 AM",
+    "PatientDOB": "4/19/1980 0:00",
+    "first_name": "Benny",
+    "gender": "Transgender Male",
+    "id": {
+      "$numberInt": "7002"
+    },
+    "is_deceased": false,
+    "last_name": "Gantz",
+    "mrn": "7002",
+    "sex": "Female",
+    "state": "MI"
+  }
+]

@@ -1,0 +1,2 @@
+﻿PatientId,MRN,PatientDOB,IsPatientDeceased,DeathDate,LastName,FirstName,Gender,Sex,AddressLine,AddressCity,AddressState,AddressZipCode
+777,888,1/25/1940,N,NULL,John,Doe,NULL,Female,Zarhin 13,Detroit,Michigan,12345
